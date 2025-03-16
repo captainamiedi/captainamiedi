@@ -11,7 +11,7 @@ I'm a **Senior Software Developer** with over **7 years of experience** in desig
 
 ### 🛠 Tech Stack  
 - **Languages:** TypeScript, JavaScript, Python  
-- **Backend:** NestJS, Node.js, PostgreSQL, MongoDB  
+- **Backend:** NestJS, Node.js, Django, PostgreSQL, MongoDB  
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **Cloud & DevOps:** AWS, Docker, CI/CD (GitHub Actions, Jenkins)  
 - **Blockchain & Web3:** Solidity, Smart Contracts, dApps  
